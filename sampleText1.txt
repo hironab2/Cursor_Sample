@@ -1,0 +1,4 @@
+let week1 = ['Mon','Tue,'Wed','Thu','Fri'].fill('Holiday')1
+    let week1 = ['Mon','Tue,'Wed','Thu','Fri'].fill('Holiday')2
+    let week1 = ['Mon','Tue,'Wed','Thu','Fro'].fill('Holiday')3
+let week1 = ['Mon','Tue,'Wed','Thu','Fri'].fill('Holiday')4
